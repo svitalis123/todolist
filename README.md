@@ -1,15 +1,15 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
+ **To Do list**
 
 > Description the project.
-
+This project create a to-do list app to track your daily activities or goals
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- JS CSS HTML 
+- WEBPACK
 
 ## Live Demo (if available)
 
@@ -42,15 +42,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/svitalis123)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/vitalismutwiri)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
