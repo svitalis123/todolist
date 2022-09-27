@@ -1,0 +1,98 @@
+* {
+  box-sizing: border-box;
+}
+
+*,
+body,
+html {
+  margin: 0.01px;
+  padding: 0.01px;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  overflow-y: hidden;
+}
+
+main {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f6f6f6;
+}
+
+.thelist {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  list-style: none;
+  width: 60%;
+  background-color: #f6f6f6;
+  box-shadow: rgba(0, 0, 0, 0.24) 0 3px 8px;
+}
+
+.thelist_lists {
+  background-color: #f6f6f6;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.lists_li {
+  display: flex;
+}
+
+.list_li_inputs {
+  flex: 1;
+  display: flex;
+  gap: 1rem;
+  background-color: #fff;
+  padding: 1rem;
+}
+
+.simple {
+  background-color: #fff;
+  width: 100%;
+  text-transform: capitalize;
+  padding: 1rem;
+}
+
+.thelist_input,
+.thelist_clear {
+  color: #9b9b9b;
+}
+
+.thelist_clear {
+  text-align: center;
+  background-color: #f6f6f6;
+  cursor: pointer;
+}
+
+.thelist_input > input {
+  width: 100%;
+  outline: none;
+  background-color: transparent;
+  border: none;
+}
+
+.make_dots {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  width: 20px;
+  cursor: pointer;
+  padding: 5px;
+  background-color: #fff;
+}
+
+.dots {
+  height: 3px;
+  width: 3px;
+  border-radius: 50%;
+  background-color: #bdbdbd;
+}
