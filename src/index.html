@@ -10,9 +10,12 @@
   <main>
     <div class="thelist" >
       <div class="thelist_title simple">Today's To Do</div>
-      <div class="thelist_input simple"><input type="text" value="" placeholder="Add to your list" ></div>
+      <form class="thelist_input simple" id="new_form">
+        <input type="text" id="new_value" value="" placeholder="Add to your list" required>
+        <button type="submit" class="sumbit_new_item" id="submit_new_item">↲</button>
+      </form>
       <div class="thelist_lists " id="list"></div>
-      <div class="thelist_clear simple">Clear all completed</div>
+      <div class="thelist_clear simple" id="clear_all">Clear all completed</div>
     </div>
   </main>
 </body>
