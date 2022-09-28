@@ -65,6 +65,11 @@ main {
   color: #9b9b9b;
 }
 
+.thelist_input {
+  display: flex;
+  position: relative;
+}
+
 .thelist_clear {
   text-align: center;
   background-color: #f6f6f6;
@@ -95,4 +100,11 @@ main {
   width: 3px;
   border-radius: 50%;
   background-color: #bdbdbd;
+}
+
+.sumbit_new_item {
+  width: 40px;
+  height: 30px;
+  border: none;
+  cursor: pointer;
 }
