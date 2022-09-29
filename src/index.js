@@ -1,4 +1,6 @@
 import './style.css';
+import tryr1 from './modules/trueExecute.js';
+import falsetoggle from './modules/falseexecution.js';
 
 let mydata = JSON.parse(localStorage.getItem('newdata')) ? JSON.parse(localStorage.getItem('newdata')) : [];
 
@@ -45,20 +47,12 @@ const handleChange = (s) => {
   if (boo === true) {
     boos.style.textDecoration = 'line-through';
     boos.style.color = 'rgba(0,0,0,0.45)';
-    for (let ite = 0; ite < mydata.length; ite += 1) {
-      if (mydata[ite].index === s) {
-        mydata[ite].completed = true;
-      }
-    }
+    tryr1(mydata, s);
     addToLocal('newdata', mydata);
   } else {
     boos.style.textDecoration = 'none';
     boos.style.color = 'rgb(0,0,0)';
-    for (let ite = 0; ite < mydata.length; ite += 1) {
-      if (mydata[ite].index === s) {
-        mydata[ite].completed = false;
-      }
-    }
+    falsetoggle(mydata, s);
     addToLocal('newdata', mydata);
   }
 };
