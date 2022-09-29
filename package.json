@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/svitalis123/todolist/issues"
   },
-  "homepage": "https://github.com/svitalis123/todolist",
+  "homepage": "https://svitalis123.github.io/todolist",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.7.1",
