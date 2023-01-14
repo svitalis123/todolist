@@ -26,6 +26,7 @@ main {
 
 .thelist {
   display: flex;
+  overflow-x: scroll;
   flex-direction: column;
   gap: 5px;
   list-style: none;
@@ -37,7 +38,6 @@ main {
 .thelist_lists {
   background-color: #f6f6f6;
   display: flex;
-  overflow-y: scroll;
   flex-direction: column;
   gap: 5px;
 }
