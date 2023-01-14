@@ -22,7 +22,7 @@ main {
   justify-content: center;
   align-items: center;
   background-color: #f6f6f6;
-  overflow-y:hidden;
+  overflow-y: scroll;
 }
 
 .thelist {
