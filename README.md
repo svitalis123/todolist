@@ -1,69 +1,124 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+<a name="readme-top"></a>
 
-# Project Name
- **To Do list**
+<!-- TABLE OF CONTENTS -->
 
-> Description the project.
-This project create a to-do list app to track your daily activities or goals
+# 📗 Table of Contents
 
-## Built With
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
 
-- JS CSS HTML 
-- WEBPACK
+<!-- PROJECT DESCRIPTION -->
 
-## Live Demo (if available)
+# 📖 TO DO LIST <a name="about-project"></a>
 
-[Live Demo Link](https://merry-sable-e838c3.netlify.app/)
+**TO DO LIST Project** Application guiding you to achieve your day to day tasks.
+## 🛠 Built With <a name="built-with"></a>
+# `HTML`
+# `CSS`
+# `JS`
+# 'WEBPACK`
+### Tech Stack <a name="tech-stack"></a>
 
+> JS
+<details>
+  <summary>Website</summary>
+  <ul>
+    <li><a href="https://www.ruby-lang.org/">JS</a></li>
+  </ul>
+</details>
 
-## Getting Started
+<!-- Features -->
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+### Key Features <a name="key-features"></a>
 
+With this app you can:
+ - Include Your day to day activities
+ - Delete once complete
+ - Edit your Activity at any moment
 
-To get a local copy up and running follow these simple example steps.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+- Have [WebPack](https://webpack.js.org/guides/getting-started/) installed
+- Create your files
 
 ### Prerequisites
 
+In order to run this project you need: Webpack set up on your pc
+
 ### Setup
 
-### Install
+Clone this repository to your desired folder:
 
-### Usage
+```sh
+  cd my-folder
+  git clone https://github.com/svitalis123/todolist.git
+```
 
-### Run tests
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Deployment
+<!-- AUTHOR -->
 
+## 👥 Authors <a name="authors"></a>
 
+👤 **Vitalis Mutwiri**
 
-## Authors
+- GitHub: [@svitalis123](https://github.com/svitalis123)
+- Twitter: [@WilsonVitalis](https://twitter.com/WilsonVitalis)
+- LinkedIn: [vitalismutwiri](https://www.linkedin.com/in/vitalismutwiri/)
 
-👤 **Author1**
+<!-- FUTURE FEATURES -->
 
-- GitHub: [@githubhandle](https://github.com/svitalis123)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/vitalismutwiri)
+## 🔭 Future Features <a name="future-features"></a>
 
+- [ ] **[Drag and drop of files]**
 
-## 🤝 Contributing
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/svitalis123/OOP-school-library/issues).
 
-## Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Give a ⭐️ if you like this project!
+<!-- SUPPORT -->
 
-## Acknowledgments
+## ⭐️ Show your support <a name="support"></a>
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+If you like this project leave a star
 
-## 📝 License
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
