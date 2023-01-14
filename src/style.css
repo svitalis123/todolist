@@ -22,7 +22,6 @@ main {
   justify-content: center;
   align-items: center;
   background-color: #f6f6f6;
-  overflow-y: scroll;
 }
 
 .thelist {
@@ -38,6 +37,7 @@ main {
 .thelist_lists {
   background-color: #f6f6f6;
   display: flex;
+  overflow-y: scroll;
   flex-direction: column;
   gap: 5px;
 }
