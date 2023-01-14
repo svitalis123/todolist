@@ -52,6 +52,9 @@ With this app you can:
  - Include Your day to day activities
  - Delete once complete
  - Edit your Activity at any moment
+ 
+ ### Live Demo <a name="Live Demo"></a>
+ [Live Demo](https://unique-torte-5efdfc.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
